@@ -1,7 +1,7 @@
 # TEST DW B21 5
 
 
-## requirements
+## Requirements
 
 * [es6console](https://es6console.com/) atau [Playcode](https://playcode.io/)
 
@@ -13,7 +13,7 @@
 
 * Javasccript
 
-## installation 4B
+## Installation 4B
 
 1. buka directory 4b, setelah terbuka buka juga command prompt(windows) atau terminal(linux)
 
